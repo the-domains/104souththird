@@ -1,0 +1,28 @@
+name: 104souththird
+favicon: null
+layout_spectrum: 0.760525785619393
+typography_spectrum: 0.08830060414038599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.030213624937459826
+  lightness: 0.7539152584504336
+  saturation: 0.9379993036855012
+  rhythmicContrast: 0.13611593609675765
+purpose: []
